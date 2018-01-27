@@ -49,12 +49,13 @@ h1, h2, h3, h4, h5 {
   .header-white {
     left: 70%;
   }
+}
 
   @media print, screen and (min-width: 1200px) {
   .header-white {
     left: 80%;
   }
- }
+}
 
 .section-container {
   padding: 10px;
